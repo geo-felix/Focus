@@ -12,3 +12,5 @@ def focus_time(user_time):
 user_time=int(input("Enter the time in seconds: "))
 
 focus_time(user_time)
+
+
